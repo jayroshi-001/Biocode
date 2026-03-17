@@ -34,3 +34,6 @@ Open `biocode.html` in any modern browser. That's it.
 ## Built with
 
 Human-AI collaboration using Claude. One prompt, one artifact, zero boilerplate.
+
+License
+MIT — see LICENSE for details.
